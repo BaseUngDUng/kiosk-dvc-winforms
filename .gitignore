@@ -19,3 +19,7 @@ KIOSK/obj/
 *.log
 *.jsonl
 kiosk_config.dat
+
+KIOSK/KIOSK.exe
+KIOSK/kiosk-extension.rar
+*.bak
