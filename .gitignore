@@ -1,0 +1,21 @@
+# Visual Studio / MSBuild
+.vs/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+packages/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Temporary & Packaged Zip Artifacts
+__rar_*
+UpdateServer.zip
+UpdateServer/KIOSK_Update.zip
+KIOSK/bin/
+KIOSK/obj/
+*.log
+*.jsonl
+kiosk_config.dat
